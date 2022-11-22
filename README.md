@@ -149,6 +149,7 @@ SyriaTel should reach out to their customers with an average total day charge of
 ├── .gitignore
 ├── Presentation.pdf
 ├── Presentation.pptx
+├── README.ipynb
 ├── README.md
 ├── churn_telecom.csv
 ├── final_notebook.ipynb
